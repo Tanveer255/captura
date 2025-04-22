@@ -1,0 +1,6 @@
+@captura_HostAddress = http://localhost:5008
+
+GET {{captura_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
